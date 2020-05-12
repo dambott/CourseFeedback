@@ -8,3 +8,9 @@ assignees: ''
 ---
 
 Please provide feedback for the course below. Thanks so much for your feedback and contributions!
+
+Tanzu Portfolio Knowledge Assessment - typos:
+  'Ship great softer faster'
+  'More effecient ITIL processes'. - should be efficient 
+  operations’   <- no apostrophe required
+  Additionally, not all questions show the answer if you get them wrong
